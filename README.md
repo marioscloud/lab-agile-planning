@@ -1,4 +1,4 @@
-Welcome to the Lab Agile Planning project! This repository is part of the course Agile Development and Scrum within the IBM DevOps and Software Engineering Professional Certificate. The main objective of this project is to create a Kanban board that will be used in the labs throughout the course.
+Welcome to the Lab Agile Planning project! This repository is part of the course Agile Development and Scrum within the **IBM DevOps and Software Engineering Professional Certificate**. The main objective of this project is to create a Kanban board that will be used in the labs throughout the course.
 Objectives
 
 The primary goals of this project include:
