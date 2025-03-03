@@ -55,12 +55,14 @@ Contributions to this project are welcome! If you would like to contribute, plea
    git checkout -b feature-name
 
 3. Commit Your Changes: Commit your changes with a clear and descriptive commit message.
+
    git commit -m "Description of your changes"
 
-4.Push to the Branch: Push your changes to the branch on your forked repository.
-  git push origin feature-name
+5. Push to the Branch: Push your changes to the branch on your forked repository.
 
-5. Create a Pull Request: Open a pull request to merge your changes into the main repository.
+    git push origin feature-name
+
+6. Create a Pull Request: Open a pull request to merge your changes into the main repository.
 
 
 License
